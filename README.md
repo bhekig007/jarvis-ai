@@ -10,6 +10,10 @@ Expected Pages URL after deployment:
 
 https://bhekig007.github.io/jarvis-ai/
 
+## Deployment
+
+GitHub Pages should use **GitHub Actions** as the source. Leave the custom domain field blank unless you own a separate domain such as `example.com`.
+
 ## What it does
 
 - Generates conversion-aware founder content drafts
